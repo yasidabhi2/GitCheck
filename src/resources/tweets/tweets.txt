@@ -7,3 +7,4 @@ there are #primitive #datatypes and non-primitive #datatypes
 Most of the #language are #object oriented
 equals and hashCode #method belong to #object
 #inheritace #abstraction are features of #object oriented languages 
+#Sachin is great
