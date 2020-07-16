@@ -1,0 +1,9 @@
+#Java is #object oriented #language
+#object is #class
+in #javascript #function is #object
+there are #primitive #datatypes and non-primitive #datatypes
+#objects aer passed by #reference
+#javascript runs on #broser
+Most of the #language are #object oriented
+equals and hashCode #method belong to #object
+#inheritace #abstraction are features of #object oriented languages 
